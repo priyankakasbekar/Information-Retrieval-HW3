@@ -1,0 +1,16 @@
+{
+    "name": "CS267/HW3",
+    "description": "HOMEWORK3 stemmer",
+    "authors": [
+        {
+            "name": "Team Avinash Priyanka Preethi",
+            "email": "priyanka.kasbekar@gmail.com"
+        }
+    ],
+    "config": {
+        "secure-http": false
+    },
+    "require": {
+        "seekquarry/yioop": ">=3.3.0"
+    }
+}
